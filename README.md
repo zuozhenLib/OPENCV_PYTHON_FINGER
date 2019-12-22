@@ -2,8 +2,8 @@
 SOME  .PY FILE WHICH IS USEFUL FOR MY PROJECT
 
 
-my_algorithm.py contain some method which works for the function get_ROI in file ROI_compeleted
+my_algorithm.py 包含了一些为 文件 ROI_compeleted.py中 get_ROI方法提供的方法
  
  
-and the picture can be used to test the function of my method 
-(the picture is a photo of my roommate's finger  :D)
+这张图片可以用来测试效果
+(我舍友的手指静脉照片 :D)
